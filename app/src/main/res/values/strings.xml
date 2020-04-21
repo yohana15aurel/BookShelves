@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BookShelves</string>
+    <string name="author">Kathian Brands</string>
+    <string name="year">Publication : 2010</string>
+    <string name="rating">Rating : 5.0</string>
+</resources>
